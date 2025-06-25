@@ -1,3 +1,3 @@
 
 
-prin("Printing Odd Number")
+print("Printing Odd Number")
